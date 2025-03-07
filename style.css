@@ -265,7 +265,7 @@ footer .column .socials a:hover{
 }
 
 
-@media (width < 800px){
+@media (width < 500px){
 
     .portofolio-grid{
         grid-template-columns: repeat(1, 1fr);
