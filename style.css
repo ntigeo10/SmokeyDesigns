@@ -278,6 +278,10 @@ footer .column .socials a:hover{
     .header{
         grid-template-columns: repeat(1, 1fr);
     }
+
+    .nav-list {
+        display: none;
+    }
 }
 
 
