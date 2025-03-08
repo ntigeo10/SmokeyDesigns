@@ -282,6 +282,10 @@ footer .column .socials a:hover{
     .nav-list {
         display: none;
     }
+
+    .aboutme-blur{
+        margin-left: 500px;
+    }
 }
 
 
